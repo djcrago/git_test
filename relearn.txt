@@ -1,1 +1,3 @@
 I am relearing how to use Git and commits (8/19/23)
+
+I am typing this line to test writing good commit messages in VSCode
